@@ -1,1 +1,4 @@
 *.pyc
+examples/data
+**/.DS_Store
+**/~*
